@@ -1,3 +1,5 @@
-# maven-project
+ maven-project
 
-Simple Maven Project
+Simple Maven Project Demo
+for resume
+
